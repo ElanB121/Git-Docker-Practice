@@ -4,7 +4,7 @@ This repository contains a small Python web application used to practice Git, Gi
 
 ## Building
 
-This application is built by Docker
+This application is built by Docker. The container will automatically run the python application when executed.
 
 ## App Features 
 
