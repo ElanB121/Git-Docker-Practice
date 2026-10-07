@@ -2,7 +2,7 @@
 
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
-## Build
+## Building
 
 This application is built by Docker
 
