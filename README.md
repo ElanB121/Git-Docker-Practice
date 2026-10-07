@@ -2,6 +2,10 @@
 
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
+## Building
+
+This application is built by Docker
+
 ## Application
 
 The application listens on port 8000 and returns a text response when accessed over HTTP.
