@@ -2,14 +2,6 @@
 
 This repository contains a small Python web application used to practice Git, GitHub, and Docker workflows.
 
-## Build
-
-This application is built by Docker
-
-## Features
-
-This application prints out the status and netID
-
 ## Application
 
 The application listens on port 8000 and returns a text response when accessed over HTTP.
